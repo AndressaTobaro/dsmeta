@@ -12,4 +12,5 @@ Neste projeto desenvolvemos:
  - Implementação na nuvem com CI/CD
  
 [Projeto Finalizado](https://dsmeta-andressatobaro.netlify.app/)
+
 [Repositório GitHub do DevSuperior](https://github.com/devsuperior/sds-dsmeta) 
